@@ -1,6 +1,6 @@
 # Ubuntu-Brightness-Fix 
 
-The brightness configuration file for Ubuntu and it's derivatives like Linux-Mint ,Kubuntu etc.
+If the brightness buttons are not working or brightness isn't varying then brightness configuration file is provided , either download or create it with the methods mentioned below.Be sure to be root user.
 
 # Method-1
  
@@ -10,7 +10,7 @@ The brightness configuration file for Ubuntu and it's derivatives like Linux-Min
   
   * cd /usr/share/X11/xorg.conf.d
   
-  * wget https://raw.githubusercontent.com/Verkiya/Ubuntu-Brightness-Fix/master/20-intel.conf
+  * wget https://raw.githubusercontent.com/Verkiya/Ubuntu-Brightness-Problem-Solution/master/20-intel.conf
   
   After that just logout/restart to check  whether brightness function is fixed or not.
  

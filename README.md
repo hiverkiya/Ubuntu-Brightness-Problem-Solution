@@ -24,7 +24,9 @@ The brightness configuration file for Ubuntu and it's derivatives like Linux-Min
 
 * Make the configuration file "sudo touch /usr/share/X11/xorg.conf.d/20-intel.conf"(Enter root password , if not root).
 
-* Open configuration file with any text editor of your choice gedit/vim/anyone either via GUI or CUI , in case of terminal write " sudo gedit /usr/share/X11/xorg.conf.d/20-intel.conf" and in case of GUI open text-editor and paste the section given below into it and save it with name "20-intel.conf" in "/usr/share/X11/xorg.conf.d".
+* Open configuration file with any text editor of your choice gedit/vim/anyone either via GUI or CUI.
+
+* In case of terminal write " sudo gedit /usr/share/X11/xorg.conf.d/20-intel.conf" and in case of GUI open text-editor and paste the section given below into it and save it with name "20-intel.conf" in "/usr/share/X11/xorg.conf.d".
 
 * Add the following lines to it :-
 

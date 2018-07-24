@@ -1,6 +1,6 @@
 # Ubuntu-Brightness-Fix 
 
-If the brightness buttons are not working or brightness isn't varying then brightness configuration file is provided , either download or create it with the methods mentioned below.Be sure to be root user.
+If the brightness buttons are not working or brightness isn't varying then brightness configuration file is provided , either download or create it with the methods mentioned below . Make sure you're a root user in this process.
 
 # Method-1
  
@@ -47,5 +47,5 @@ If the brightness buttons are not working or brightness isn't varying then brigh
  
  * Save it , either logout or restart.Brightness control would be working by now.
  
- [Source](https://itsfoss.com/fix-brightness-ubuntu-1310/)
+ [Click on this link for source](https://itsfoss.com/fix-brightness-ubuntu-1310/)
 

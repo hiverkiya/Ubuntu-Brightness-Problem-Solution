@@ -4,10 +4,10 @@ If the brightness buttons are not working or brightness isn't varying then brigh
 
 # Method-1
  
- You just have to place the configuration file in "/usr/share/X11/xorg.conf.d" directory.
-  
-  For this, write commands written below one by one :-
-  
+ You just have to place the configuration file in "/usr/share/X11/xorg.conf.d" directory.Opem Terminal with Superuser privileges
+ 
+ and execute commands given below
+ 
   * cd /usr/share/X11/xorg.conf.d
   
   * wget https://raw.githubusercontent.com/hiverkiya/Ubuntu-Brightness-Problem-Solution/master/20-intel.conf

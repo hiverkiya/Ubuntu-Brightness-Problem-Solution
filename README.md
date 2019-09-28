@@ -10,7 +10,7 @@ If the brightness buttons are not working or brightness isn't varying then brigh
   
   * cd /usr/share/X11/xorg.conf.d
   
-  * wget https://raw.githubusercontent.com/v3rkiya/Ubuntu-Brightness-Problem-Solution/master/20-intel.conf
+  * wget https://raw.githubusercontent.com/hiverkiya/Ubuntu-Brightness-Problem-Solution/master/20-intel.conf
   
   After that just logout/restart to check  whether brightness function is fixed or not.
  

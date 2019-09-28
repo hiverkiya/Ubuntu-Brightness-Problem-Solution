@@ -47,5 +47,5 @@ If the brightness buttons are not working or brightness isn't varying then brigh
  
  * Save it , either logout or restart.Brightness control would be working by now.
  
- [Click on this link for source](https://itsfoss.com/fix-brightness-ubuntu-1310/)
+ [Source](https://itsfoss.com/fix-brightness-ubuntu-1310/)
 

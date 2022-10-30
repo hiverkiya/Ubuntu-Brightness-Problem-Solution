@@ -1,8 +1,8 @@
-# Ubuntu-Brightness-Fix 
+# Ubuntu Brightness Fix 
 
 If the brightness buttons are not working or brightness isn't varying, then a brightness configuration file is provided; either download or create it with the methods mentioned below. Make sure you're a root user in this process.
 
-# Method-1
+# Method 1
  
  You must place the configuration file in the "/usr/share/X11/xorg.conf.d" directory. Open Terminal with Superuser privileges
  
@@ -14,7 +14,7 @@ If the brightness buttons are not working or brightness isn't varying, then a br
   
   After that, just log out/restart to check whether the brightness function is fixed or not.
  
-# Method-2
+# Method 2
  
  Commands are under quotes.
  
